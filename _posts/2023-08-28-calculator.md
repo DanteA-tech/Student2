@@ -1,4 +1,11 @@
-
+---
+toc: true
+comments: false
+layout: post
+title: calculator 
+type: hacks
+courses: { compsci: {week: 1} }
+---
 <html>
 <head>
     <title>Calculator</title>

@@ -1,3 +1,11 @@
+---
+toc: true
+comments: false
+layout: post
+title: Game of life
+type: hacks
+courses: { compsci: {week: 2} }
+---
 <style>
     #container {
     display: grid;

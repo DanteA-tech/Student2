@@ -1,3 +1,11 @@
+---
+toc: true
+comments: false
+layout: post
+title: Soccer table
+type: hacks
+courses: { compsci: {week: 2} }
+---
 ## Soccer Cleat Released in 2023
 <table class="table">
     <thead>

@@ -1,4 +1,11 @@
-
+---
+toc: true
+comments: false
+layout: post
+title: rock paper scissors
+type: tangibles
+courses: { compsci: {week: 2} }
+---
 
 <html lang="en">
 <head>

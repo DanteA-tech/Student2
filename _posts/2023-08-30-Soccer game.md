@@ -1,3 +1,11 @@
+---
+toc: true
+comments: false
+layout: post
+title: Soccer game
+type: tangibles
+courses: { compsci: {week: 2} }
+---
 <html lang="en">
 <head>
     <meta charset="UTF-8">

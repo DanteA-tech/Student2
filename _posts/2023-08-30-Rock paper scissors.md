@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: rock paper scissors
-type: tangibles
+type: hacks
 courses: { compsci: {week: 2} }
 ---
 
